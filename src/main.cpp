@@ -53,7 +53,7 @@ const char* networkSSID = "Device-Northwestern"; // Complete with your network S
 const char* networkPASSWORD = ""; // Complete with your network password (use for WPA, or use as key for WEP)
 const char* mqttSERVER = "mqtt.swx.altairone.com"; 
 const char* mqttUSERNAME; // In SmartWorks IoT platform, AnythingDB>your thing >Interfaces > MQTT Username
-const char* mqttPASSWORD = "ebike"; // In SmartWorks IoT platform, AnythingDB>your thing >Interfaces > MQTT Username
+const char* mqttPASSWORD = ""; // In SmartWorks IoT platform, AnythingDB>your thing >Interfaces > MQTT Username
 
 // const char* API_HOST = "https://api.swx.altairone.com";
 // const char* updateps_func = "/spaces/ebike2/functions/updateproperties/invoke" ;

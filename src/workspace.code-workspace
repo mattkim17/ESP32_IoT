@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\SmartWorks_ESP"
+		},
+		{
+			"name": "ESP32_test1",
+			"path": "..\\..\\ESP32_test1"
+		},
+		{
+			"name": "BLE_MQTT_v1",
+			"path": "..\\..\\BLE_MQTT_v1"
+		},
+		{
+			"name": "220124-165915-featheresp32",
+			"path": "..\\..\\220124-165915-featheresp32"
+		},
+		{
+			"name": "220131-135014-featheresp32",
+			"path": "..\\..\\220131-135014-featheresp32"
+		},
+		{
+			"name": "ebike2",
+			"path": ".."
+		},
+		{
+			"name": "esp32",
+			"path": "..\\..\\esp32"
+		}
+	],
+	"settings": {}
+}

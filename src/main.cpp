@@ -62,7 +62,7 @@ const char* mqttPASSWORD = "ebike"; // In SmartWorks IoT platform, AnythingDB>yo
 
 const char* client_id = "app::01FX17QYTEGXHECC68X1PAW7T5"; //SmartWorks AppID
 const char* client_secret = ""; //SmartWorks App Secret PW
-// const char* temp_token = "1Z-k8QAzHijmW1kG_fBPnzrthXlW6BEfDnKWLsHosdc.FPsKHZYCqCKhx0faq-UomU-1ZrG7H6rgGiBEhpdGEXY";
+// const char* temp_token = "";
 //char publishTopic_data[] = "set/ebike2/collections/esp32_data/things/"; //thing_id/data"
 
 const char* ca_cert = \
